@@ -2,7 +2,9 @@
 
 An intelligent web application that uses the Google Gemini API to automatically grade handwritten Hebrew math homework. Users can upload an image or a PDF of their work and receive a detailed, problem-by-problem analysis with error highlighting and constructive feedback.
 
-![AI Math Homework Grader Screenshot](https://storage.googleapis.com/genai-assets/readme/math-grader-demo.png)
+
+![Screenshort](https://github.com/user-attachments/assets/d1ace9cc-e704-4892-841c-280aa67ad02e)
+
 
 ---
 
