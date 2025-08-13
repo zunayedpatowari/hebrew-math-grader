@@ -78,9 +78,9 @@ This project uses a modern, build-free setup with ES Modules and an import map.
 4.  **Provide the API Key**
     The code expects `process.env.API_KEY`. When running a simple static server, `process.env` will not be defined. The easiest way to test is to create a `.env` file in the root:
     
-    `.env`
+    `.env.local`
     ```
-    API_KEY="YOUR_GEMINI_API_KEY_HERE"
+    GEMINI_API_KEY="YOUR_GEMINI_API_KEY_HERE"
     ```
     
     *Note: A real production deployment would use a secure method to provide this key, often through a backend or a hosting provider's environment variable settings.*
